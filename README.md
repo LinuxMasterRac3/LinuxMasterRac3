@@ -1,7 +1,10 @@
- -Hi, I’m a David I come from Italy.
- im writing code, but in case of problems,
- please it would really help me. 
- please write at this email <3. AsdrubaleDelleMariangele@protonmail.com 
-- I’m interested in science,manga,linux,metal music♪,cycling,
-- I’m currently learning in italy school, information technology itis.
+👋 About Me
+
+Hi, I’m David, an aspiring developer from Italy with a passion for technology and creativity.
+
+    🌱 I’m currently studying Information Technology at an ITIS school in Italy.
+    🔭 I’m interested in science, Linux, , metal music 🎵, and cycling.
+    🛠️ I enjoy writing code and exploring web development and aeronautical software engineering.
+
+If you encounter any issues or want to collaborate, feel free to reach out to me via email: AsdrubaleDelleMariangele@protonmail.com.
 
